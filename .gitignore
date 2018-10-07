@@ -1,5 +1,6 @@
 # comment
 temp1.txt
+tempfile2.txt
 *.zip
 *.gz
 log/*.log
